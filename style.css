@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.background {
+  background-color: #ffc107;
+  width: 500px;
+  height: 500px;
+  border-radius: 20rem;
+  background-size: cover;
+  background-position: center;
+  padding: 5px;
+}
+.services-cards {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.portfolio .card {
+  cursor: pointer;
+}
+.contact-us a {
+  text-decoration: none;
+  color: rgb(54, 54, 54);
+}
+.contact-btn {
+  text-decoration: none;
+  color: white;
+}
